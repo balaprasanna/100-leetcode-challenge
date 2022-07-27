@@ -1,10 +1,12 @@
-/**
- * Definition for singly-linked list.
- * type ListNode struct {
- *     Val int
- *     Next *ListNode
- * }
- */
+package main
+
+import "fmt"
+
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
 func isPalindrome(head *ListNode) bool {
 	fastPtr := head
 	slowPtr := head
@@ -34,4 +36,12 @@ func reverseLinkedList(head *ListNode) (output *ListNode) {
 		head = remain
 	}
 	return output
+}
+
+func main() {
+	ll := ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 3, Next: &ListNode{Val: 2, Next: &ListNode{Val: 1, Next: nil}}}}}
+	fmt.Println("should be true", isPalindrome(&ll))
+
+	ll2 := ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 3, Next: &ListNode{Val: 2, Next: &ListNode{Val: 10, Next: nil}}}}}
+	fmt.Println("should be false", isPalindrome(&ll2))
 }
