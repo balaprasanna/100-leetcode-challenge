@@ -9,3 +9,4 @@ No | Problem | Solution
 3 | https://leetcode.com/problems/merge-two-binary-trees | [03.merge-two-binarytree.py](03.merge-two-binarytree.py)
 4 | https://leetcode.com/problems/two-sum | [04-twosum.py](04-twosum.py)
 5 | https://leetcode.com/problems/contains-duplicate | [05-contains-duplicate.py](05-contains-duplicate.py)
+6 | https://leetcode.com/problems/reverse-linked-list | [06-reverse-linked-list.py](06-reverse-linked-list.py)
