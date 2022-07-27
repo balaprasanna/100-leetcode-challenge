@@ -1,5 +1,5 @@
 # 100-leetcode-challenge
 ----
-S.NO | Problem
+No | Problem
 --- | ---
 1 | https://leetcode.com/problems/symmetric-tree/
