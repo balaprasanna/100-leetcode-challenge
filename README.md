@@ -13,3 +13,4 @@ No | Problem | Solution
 7 | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted | [07-two-sum-II-sorted-array.py](07-two-sum-II-sorted-array.py)
 8 | https://leetcode.com/problems/palindrome-linked-list | [08-valid-palindrome-linkedlist.py](08-valid-palindrome-linkedlist.py)
 9 | https://leetcode.com/problems/n-ary-tree-postorder-traversal | [09-n-array-tree-post-order-traversal.py](09-n-array-tree-post-order-traversal.py)
+10 | https://leetcode.com/problems/binary-tree-inorder-traversal | [10-binary-tree-inorde-traversal.py](10-binary-tree-inorde-traversal.py)
