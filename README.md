@@ -15,3 +15,4 @@ No | Problem | Solution
 9 | https://leetcode.com/problems/n-ary-tree-postorder-traversal | [09-n-array-tree-post-order-traversal.py](09-n-array-tree-post-order-traversal.py)
 10 | https://leetcode.com/problems/binary-tree-inorder-traversal | [10-binary-tree-inorde-traversal.py](10-binary-tree-inorde-traversal.py)
 11 | https://leetcode.com/problems/n-ary-tree-preorder-traversal | [11-n-array-tree-pre-order-traversal.py](11-n-array-tree-pre-order-traversal.py)
+12 | https://leetcode.com/problems/palindrome-number | (12-palindrom-number.py)[12-palindrom-number.py]
