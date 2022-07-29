@@ -14,3 +14,4 @@ No | Problem | Solution
 8 | https://leetcode.com/problems/palindrome-linked-list | [08-valid-palindrome-linkedlist.py](08-valid-palindrome-linkedlist.py)
 9 | https://leetcode.com/problems/n-ary-tree-postorder-traversal | [09-n-array-tree-post-order-traversal.py](09-n-array-tree-post-order-traversal.py)
 10 | https://leetcode.com/problems/binary-tree-inorder-traversal | [10-binary-tree-inorde-traversal.py](10-binary-tree-inorde-traversal.py)
+11 | https://leetcode.com/problems/n-ary-tree-preorder-traversal | [11-n-array-tree-pre-order-traversal.py](11-n-array-tree-pre-order-traversal.py)
